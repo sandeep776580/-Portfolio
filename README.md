@@ -1,4 +1,4 @@
-# Portfolio  [```live```](https://abhikant-portfolio.netlify.app/)
+# Portfolio  
 
 ## The following libraries and frameworks were used to create this portfolio.
 
@@ -7,7 +7,4 @@
 - TailwindCSS - a popular utility-first CSS styling framework
 - Framer Motion - the most popular library used to bring your React website to life with animations
 
-## Contact
-- Email: abhiparnav12@gmail.com
-- Linkedin: https://www.linkedin.com/in/abhikant12/
-- Website - [Abhikant Kumar](https://abhikant-portfolio.netlify.app/)
+ 
